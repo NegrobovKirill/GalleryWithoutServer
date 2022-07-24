@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="gallery_activity_main">Галерея</string>
+    <string name="profile_activity">Профиль</string>
+    <string name="favorite_activity">Мои избранные</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="hello_blank_fragment_main">Hello blank fragment_main</string>
+
+
+
+
+    <string name="person_name">Александра Новикова</string>
+    <string name="person_status">“Светлое будущее живет в вечности”</string>
+    <string name="city">Санкт-Петербург</string>
+    <string name="phone">+ 7 (961) 187 17 44</string>
+    <string name="email">alexandra@surfstudio.ru</string>
+</resources>
